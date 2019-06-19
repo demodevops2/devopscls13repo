@@ -2,4 +2,4 @@
 
 date
 df -h
-echo "testscm job is done"
+echo "test github webhook is done"
